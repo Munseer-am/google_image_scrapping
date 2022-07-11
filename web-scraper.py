@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-dst = "/home/munseer/code/python/web-scraped-images/downloads/"
+dst = "Enter path to save images"
 
 query = str(input("Search: "))
 
